@@ -25,6 +25,7 @@ var modifySms=sms.split(' ').map(function(item){
         }*/
         
     };
+    //aaaa
     return item
 }).join(' ');
 
